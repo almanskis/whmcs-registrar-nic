@@ -1,0 +1,31 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-registrars",
+  "name": "nic",
+  "license": "proprietary",
+  "category": "domains",
+  "description": {
+    "name": "NIC",
+    "tagline": ".LV domain provider.",
+    "long": "Automate .LV domains registration directly with NIC. Available use of sandbox and production environments. Included sandbox acceptance testing.",
+    "features": [
+        "Separate Prodution and Sandbox details fields for testing and production work",
+        "Included code to perform sandbox acceptance test",
+        "Available Contact functions: check, create, info, update, delete",
+        "Available Domain functions: check, create, info, update, transfer, delete"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https:\/\/github.com\/almanskis\/whmcs-registrar-nic",
+    "email": "almantasgirskis@gmail.com"
+  },
+  "authors": [
+    {
+      "name": "Almantas Girskis, BaCloud",
+      "homepage": "https:\/\/github.com\/almanskis\/whmcs-registrar-nic"
+    }
+  ]
+}
