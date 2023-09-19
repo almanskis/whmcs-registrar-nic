@@ -1,4 +1,6 @@
+# whmcs-registrar-nic
 WHMCS Registrar module for NIC registrar (.lv domains)
+
 
 ## Information
 
