@@ -60,7 +60,7 @@ That way it was pretty easy to run test repeatedly in case it fails and I needed
 ## How to use this repository
 --------------------------
 
-1. Check out the latest version from github (link to be added in the future)
+1. Check out the latest version from [github](https://github.com/almanskis/whmcs-registrar-nic)
 2. Place module catalog in whmcs_root_catalog/registrars.
 3. Go to WHMCs Admin area -> System Settings -> Domain Registrar.
 4. Active NIC registrar module.
@@ -72,7 +72,7 @@ That way it was pretty easy to run test repeatedly in case it fails and I needed
 
 ## Contributions, credits
 
-Some ideas taken from metaregistrar/php-epp-client, mostly based on agilegeeks/eurid-epp-php, with some customisations.
+Some ideas taken from [metaregistrar/php-epp-client](https://github.com/metaregistrar/php-epp-client), mostly based on [agilegeeks/eurid-epp-php](https://github.com/agilegeeks/eurid-epp-php), with some customisations.
 
 Current supporters:
 - [bacloud.com](https://www.bacloud.com/en)
