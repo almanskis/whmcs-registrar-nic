@@ -1,7 +1,6 @@
-## Information
+WHMCS Registrar module for NIC registrar (.lv domains).
 
-WHMCS Registrar module for NIC registrar.
-Used to register .lv domains.
+## Information
 
 Writen in PHP v7.4
 Tested with WHMCS v8.7.3
